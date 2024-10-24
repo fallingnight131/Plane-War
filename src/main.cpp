@@ -17,14 +17,7 @@ int main() {
     settextcolor(RGB(189, 128, 99));
     settextstyle(16, 0, _T("Arial"));
     showMainMenu();
-<<<<<<< HEAD
     closegraph(); 
-=======
-    closegraph();
-<<<<<<< HEAD
->>>>>>> parent of df481ad (change some files)
-=======
->>>>>>> parent of df481ad (change some files)
     return 0;
 
 }

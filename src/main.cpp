@@ -18,7 +18,6 @@ int main() {
     settextstyle(16, 0, _T("Arial"));
     showMainMenu();
     closegraph();
-    
     return 0;
 
 }

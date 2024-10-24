@@ -10,5 +10,14 @@
 int main() {
     initgraph(SCREEN_WIDTH, SCREEN_HEIGHT, SHOWCONSOLE);
     setbkcolor(YELLOW);
-    
+    cleardevice();
+    setfillcolor(YELLOW);
+    setlinecolor(BLUE);
+    setlinestyle(PS_SOLID, 5);
+    settextcolor(RGB(189, 128, 99));
+    settextstyle(16, 0, _T("Arial"));
+    showMainMenu();
+    closegraph(); 
+    return 0;
+
 }

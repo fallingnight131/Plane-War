@@ -21,6 +21,9 @@ int main() {
     closegraph(); 
 =======
     closegraph();
+<<<<<<< HEAD
+>>>>>>> parent of df481ad (change some files)
+=======
 >>>>>>> parent of df481ad (change some files)
     return 0;
 

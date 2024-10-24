@@ -17,7 +17,7 @@ int main() {
     settextcolor(RGB(189, 128, 99));
     settextstyle(16, 0, _T("Arial"));
     showMainMenu();
-    closegraph();
+    closegraph(); 
     return 0;
 
 }

@@ -19,6 +19,5 @@ int main() {
     showMainMenu();
     closegraph();
     return 0;
-    
 
 }

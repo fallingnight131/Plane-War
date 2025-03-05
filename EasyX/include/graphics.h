@@ -33,7 +33,7 @@
 #define CROSS_FILL			BS_HATCHED, HS_CROSS						// Fill with +++.
 #define DIAGCROSS_FILL		BS_HATCHED, HS_DIAGCROSS					// Fill with xxx (heavy cross hatch fill).
 #define DOT_FILL			(BYTE*)"\x80\x00\x08\x00\x80\x00\x08\x00"	// Fill with xxx.
-#define FDIAGONAL_FILL		BS_HATCHED, HS_FDIAGONAL					// Fill with /\.
+#define FDIAGONAL_FILL		BS_HATCHED, HS_FDIAGONAL					// Fill with \\\.
 #define HORIZONTAL_FILL		BS_HATCHED, HS_HORIZONTAL					// Fill with ===.
 #define VERTICAL_FILL		BS_HATCHED, HS_VERTICAL						// Fill with |||.
 // Old dense fill style

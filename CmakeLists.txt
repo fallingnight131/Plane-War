@@ -12,4 +12,5 @@ link_libraries(libeasyx.a winmm.lib)
 # 添加源文件
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable(PlaneWar ${SOURCES})
+add_executable(PlaneWar WIN32 ${SOURCES})
+target_link_libraries(PlaneWar -mwindows)

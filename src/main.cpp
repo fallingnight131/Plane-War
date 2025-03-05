@@ -6,8 +6,8 @@
 #include"../include/bullet.h"
 #include"../include/item.h"
 #include"../include/menu.h"
-// Ö÷º¯Êý
-int main() {
+// ???
+int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
     initgraph(SCREEN_WIDTH, SCREEN_HEIGHT, SHOWCONSOLE);
     setbkcolor(YELLOW);
     cleardevice();
@@ -19,5 +19,4 @@ int main() {
     showMainMenu();
     closegraph();
     return 0;
-
 }

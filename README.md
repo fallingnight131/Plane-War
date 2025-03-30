@@ -2,8 +2,8 @@
 一个简单的2D飞机大战小游戏，纪念一下逝去于童年的雷霆战机
 
 <p align="center">
-  <img src="http://slkc06hf4.hn-bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-19%20-1.png" width="45%" style="display: inline-block; margin-right: 50px;" />
-  <img src="http://slkc06hf4.hn-bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-19%20-2.png" width="45%" style="display: inline-block;" />
+  <img src="https://raw.githubusercontent.com/fallingnight131/media_resource/github/image/20250330140218294.png" width="45%" style="display: inline-block; margin-right: 50px;" />
+  <img src="https://raw.githubusercontent.com/fallingnight131/media_resource/github/image/20250330140322267.png" width="45%" style="display: inline-block;" />
 </p>
 
 ## 操作方法
